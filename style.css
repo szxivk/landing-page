@@ -24,15 +24,26 @@ a {
     background-color: #1F2937;
     margin: 0;
     border: 0;
-    padding: 48px;
-    padding-top: 0;
+    padding: 14px 200px 100px;
 }
 
 .header{
     display: flex;
     justify-content: space-between;
+    align-items: flex-end;
+    
+}
+
+.logo{
+    font-size: 24px;
+    font-weight: bold;
+    color: #F9fAf8;
+    flex-shrink: 0;
 }
 
 .right-links{
     display: flex;
+    gap: 20px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
