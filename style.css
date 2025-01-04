@@ -190,7 +190,6 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    /* font-weight: bold; */
     padding: 15px 32px;
     border-radius: 8px;
     font-weight: bold;
@@ -210,4 +209,14 @@ a {
 
 .call-info .sec-text {
     color:#E5E7EB;
+}
+
+.footer {
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    font-size: 16px;
 }
