@@ -94,8 +94,9 @@ a {
 .left-hero button {
     background-color: #3882F6;
     color: white;
-    padding: 6px 24px;
-    border-radius: 6px;
+    padding: 15px 32px;
+    font-weight: bold;
+    border-radius: 8px;
 }
 
 .info-title {
@@ -160,3 +161,53 @@ a {
     padding: 12px;
 }
 
+.call-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 128px 0px;
+    color: white;
+}
+
+.blue-container {
+    box-sizing: border-box;
+    background: #3882F6;
+    width: 1024px;
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    padding: 64px 128px;
+    border-radius: 10px;
+
+}
+
+
+
+.bottom-button {
+    border: 2px solid white;
+    color: white;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-weight: bold; */
+    padding: 15px 32px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.call-info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.call-info .main-text{
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.call-info .sec-text {
+    color:#E5E7EB;
+}
