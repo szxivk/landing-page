@@ -97,3 +97,42 @@ a {
     padding: 6px 24px;
     border-radius: 6px;
 }
+
+.info-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    padding: 52px;
+}
+
+.info-section {
+    display: flex;
+    padding-bottom: 128px;
+    justify-content: center;
+    gap: 60px;
+    text-align: center;
+}
+
+.img-container {
+    width: 200px;
+    height: 200px;
+    border: 6px solid #3882F6;
+    border-radius: 16px;
+}
+
+.card .text {
+    color: grey;
+    font-size: 20px;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    gap: 12px;
+}
+
