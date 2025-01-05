@@ -49,19 +49,14 @@ a {
     color: #E5E7EB;
 }
 
-
-
 .hero {
     display: flex;
     padding-top: 128px;
     gap: 52px;
 }
 
-
-
 .hero-image {
     flex: 1;
-    /* max-width: fit-content; */
 }
 
 .hero-image img {
