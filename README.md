@@ -2,6 +2,13 @@
 This repository contains the implementation of a web page design as part of an assignment from [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page). The task involves recreating a provided design using HTML and CSS, focusing on accuracy and responsiveness.
 
 
+## Improvement and Reflection
+
+1. need to learn to code better css -higher redundancy in code -alot can be removed and improved with better code -I need to learn that.
+2. Need more experience in getting used to styling images and containers.
+3. I need to learn better class naming.
+
+
 ## Credits for images
       
 <img src="./images/egor-litvinov-Bpi5JBsyNjg-unsplash.jpg">
